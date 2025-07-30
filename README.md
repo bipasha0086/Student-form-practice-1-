@@ -29,7 +29,7 @@ student-form-practice-1/
 ## 🚀 How to Run
 
 1. Download or clone the repository.
-2. Open the `index.html` file in any web browser.
+2. Open the `Form.html` file in any web browser.
 3. Fill in the form fields and click "Register".
 
 ## 📬 Contact
