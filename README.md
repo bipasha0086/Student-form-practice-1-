@@ -16,7 +16,7 @@ This is a simple HTML-based **Student Registration Form**. The form collects bas
 
 ## 📸 Screenshot
 
-![Student Registration Form Screenshot](Screenshot 2025-07-30 205411.png)
+![Student Registration Form Screenshot](screenshot.png)
 
 > Ensure `screenshot.png` is saved in the root directory of your project folder.
 
